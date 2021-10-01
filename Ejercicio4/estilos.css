@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  #info:hover {
+    background-color: green;
+    text-transform: uppercase;
+  }
+  
